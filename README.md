@@ -1,6 +1,6 @@
 # BMI 6106 — Estimation I: Interactive Figures
 
-Interactive browser-based visualizations for the **Estimation I** lecture in BMI 6106 (Biomedical Informatics Statistics, University of Utah). Six figures cover the core concepts of the lecture: point estimation, sampling distributions, the Law of Large Numbers, the Central Limit Theorem, and confidence intervals.
+Interactive browser-based visualizations for the **Estimation I** lecture in BMI 6106 (Intro to Probability and Statistics, University of Utah). Six figures cover the core concepts of the lecture: point estimation, sampling distributions, the Law of Large Numbers, the Central Limit Theorem, and confidence intervals.
 
 ---
 
